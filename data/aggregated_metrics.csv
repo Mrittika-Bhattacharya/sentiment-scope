@@ -1,0 +1,541 @@
+ProductID,AverageSatisfactionIndex,HappyCount,AngryCount,DisappointedCount,NeutralCount,TopPositiveThemes,TopNegativeThemes,LastUpdatedTimestamp
+1033,67.23148148148148,70,2,0,0,The fit|this jean|a bit,My review|the jeans|the top,2025-11-12T19:57:20.344794
+1066,66.12,30,1,1,0,pilcro|all the time|size,the skinny jeans|a wide leg|a bit,2025-11-12T19:57:20.425767
+867,59.36440677966102,66,12,1,0,Fabric|body|a bit,the other reviews|all winter|the style,2025-11-12T19:57:20.465872
+1111,66.21428571428571,18,1,0,0,pink|a wedding|this summer,two sizes|the fraying|the embroidery,2025-11-12T19:57:20.505387
+1006,28.5,1,1,0,0,the model|interesting unusual designs|very long time,The material|the online picture|pockets,2025-11-12T19:57:20.545246
+1081,63.977375565610856,133,2,2,1,This dress|so many compliments|a winner,the red color and drape|subtle shine|the fabric,2025-11-12T19:57:20.586472
+829,56.97191011235955,92,1,3,0,the cutest items|owned|a 4,5|' 7|a size,2025-11-12T19:57:20.646215
+853,73.5,1,0,0,0,a chance|this blouse|the blouse,,2025-11-12T19:57:20.705233
+327,14.666666666666666,0,0,0,0,,,2025-11-12T19:57:20.725221
+1078,65.81931464174455,202,10,8,0,light material|a sweater|this i,previous reviewers|the dress|the model,2025-11-12T19:57:20.767032
+860,59.41549295774648,79,7,2,0,"this top|5'2""|the bottom",not a good combo|a medium|the store,2025-11-12T19:57:20.846009
+872,69.34883720930233,145,2,4,0,Extremely comfortable t.|tts|black & teal,hopes|this shirt|the fabric,2025-11-12T19:57:20.886331
+974,42.57142857142857,5,0,2,0,this piece|love|the print,my bday discount|the small|a bit,2025-11-12T19:57:20.945312
+1060,62.68571428571428,21,0,2,0,this jumpsuit|the store|sale,two size|my local retailer|the last year,2025-11-12T19:57:20.985379
+1095,53.8013698630137,69,7,2,0,the jumpsuit trend|dresses|the cut,this dress|the bust area|sizes,2025-11-12T19:57:21.026071
+1110,61.57142857142857,76,8,1,0,a size 16|things|the picture,a small|4 or 6|this dress,2025-11-12T19:57:21.066100
+380,48.166666666666664,3,1,0,0,this bathing suit|this one|my mom-bod and breasts,The chevron pattern|the mint/seaside version|the front,2025-11-12T19:57:21.125250
+850,65.50955414012739,98,8,3,1,a cute top|the material design|tops,this curvy gal|the button gaps|the flowy shape,2025-11-12T19:57:21.166128
+907,70.02380952380952,27,3,0,0,"a lot|very soft|, just enough detail","size xl|ivory|a drab, poorly-made, too-small sweater",2025-11-12T19:57:21.205459
+1086,62.666666666666664,51,4,3,0,this dress|a 5 star review|the only thing,This dress|a sack|person,2025-11-12T19:57:21.245693
+183,46.0,2,2,0,0,the look|these socks|over-the-knee socks,These socks|the elastic|the top,2025-11-12T19:57:21.305215
+1024,83.70588235294117,14,0,0,0,"these jeans|my regular size 27|5'4""",,2025-11-12T19:57:21.325284
+866,42.97674418604651,17,5,1,0,"the softest, most flattering hoodie|spring & summer|a coverall",Completely oversized top|size medium|boxy,2025-11-12T19:57:21.365452
+1102,34.333333333333336,1,1,0,0,Great dress|knee length dresses|my kids,A $200 piece|polyester|no shape,2025-11-12T19:57:21.405187
+1072,51.21518987341772,37,0,2,2,this dress|a belt|my body type,his dress|a big miss|big big,2025-11-12T19:57:21.445654
+836,52.148936170212764,48,4,1,0,The color|fall|winter,this top|my local store|home,2025-11-12T19:57:21.485702
+831,74.359375,45,1,1,0,a risk|this blouse|a wonderful surprise,The fabric|special|a cotton/silk blend,2025-11-12T19:57:21.525544
+843,49.5,2,0,0,0,this top|any sheerness|the cream,,2025-11-12T19:57:21.585219
+819,51.35,9,0,0,0,this shirt|a throw|colors,Bought|other color|a metallic gold stripe,2025-11-12T19:57:21.605299
+984,80.67901234567901,64,2,0,1,blazers|this one|the bill,this jacket|the fabric|every direction,2025-11-12T19:57:21.645694
+1094,57.705128205128204,167,9,6,0,this dress|fitting|an xs,this everything|this piece|the great review,2025-11-12T19:57:21.686991
+862,67.65671641791045,175,10,5,0,all three colors|berry color|the top,this shirt|a second time|this top,2025-11-12T19:57:21.766594
+895,68.44654088050315,103,6,2,0,The colors|a pinkish brown|a light brown,this item|the picture|wishful thinking,2025-11-12T19:57:21.826045
+896,72.70588235294117,12,0,0,0,an xl|retailer tops|the xl,,2025-11-12T19:57:21.865337
+1047,64.84210526315789,12,0,1,0,my second pair|joggers|retailer,these pants|the fabric|a thick sweater,2025-11-12T19:57:21.905298
+1077,63.40243902439025,50,5,2,1,This dress|other things|shipping,Three strikes|retailer|this dress,2025-11-12T19:57:21.945651
+833,55.101694915254235,31,3,1,0,a beautiful and fashionable blouse|viscose|color,the mail|the color|dusty pink,2025-11-12T19:57:21.985498
+903,69.27659574468085,31,2,0,0,my favorite items|any occasion|this shirt,the lining|the fabric|a bag,2025-11-12T19:57:22.025445
+460,51.333333333333336,7,0,0,0,this romper|a month|size,the pictures|my trip|europe,2025-11-12T19:57:22.065325
+985,60.148148148148145,14,0,0,1,a great lightweight jacket|the olive color|so many things,,2025-11-12T19:57:22.105370
+820,71.27722772277228,70,3,2,0,this top|a flattering cut|fun summer colors,The fabric|a little|the back,2025-11-12T19:57:22.145794
+996,56.18181818181818,6,0,0,0,a great skirt|your closet|detail,this skirt|the xl|a size 12,2025-11-12T19:57:22.185339
+993,86.4375,14,1,0,0,this skirt|person|the store,the care label|~3 inches|the length,2025-11-12T19:57:22.225278
+1068,61.89473684210526,12,0,2,0,These pants|any closet|casual weekend,a little|the petite size|the model,2025-11-12T19:57:22.265284
+898,66.4,10,1,0,0,This sweater|a nice addition|a fall or spring wardrobe,Disappointment city|this one|a coupon,2025-11-12T19:57:22.305298
+1202,56.0,5,0,0,0,hawaii|the holidays|black calf length tights,,2025-11-12T19:57:22.345232
+975,65.44827586206897,19,2,0,0,this jacket|compliments|both times,the photos|the high price|1,2025-11-12T19:57:22.385382
+917,75.28571428571429,4,0,0,0,a medium|my usual size|a small,,2025-11-12T19:57:22.425248
+1022,65.94444444444444,23,2,2,0,my third pair|ag primas|the higher rise,stevie ankles|years|retailer,2025-11-12T19:57:22.465448
+251,63.23076923076923,8,1,0,0,this cardigan|its fit|a lot,this cardigan|the arms|a m,2025-11-12T19:57:22.505293
+1091,41.705882352941174,6,1,0,0,Gorgeous dress|every penny|a kind twist,This dress|5'4 and 120 lbs|a size,2025-11-12T19:57:22.525275
+816,53.857142857142854,4,0,0,0,a very flattering blouse|holding horses|size,,2025-11-12T19:57:22.565225
+1099,63.149253731343286,40,1,1,0,This dress|an xxs petite|xs petite,this dress|the lacing|the neck,2025-11-12T19:57:22.605535
+992,72.27272727272727,8,1,0,0,a size 8/10|a large|this skirt,the other reviewer|hardware|a lot,2025-11-12T19:57:22.645297
+861,58.775,44,2,3,3,shirt size|jacket size|layering,this skirt|the picture|a shirt,2025-11-12T19:57:22.685602
+942,56.90909090909091,6,0,0,0,My imagination|wilt|the possible combinations,,2025-11-12T19:57:22.725238
+1042,71.66666666666667,1,0,0,0,a while|a sale|the 40%,,2025-11-12T19:57:22.765193
+936,70.65625,65,2,4,0,the color|5 ft 2|hood,the photo|this sweater|person,2025-11-12T19:57:22.805790
+826,75.875,6,0,0,1,The most beautiful top|my closet|a huge closet,,2025-11-12T19:57:22.845236
+1001,58.26315789473684,10,0,0,0,This skirt|only flaw|the grey one,the other reviewers|an xs|the lyocell material,2025-11-12T19:57:22.885304
+854,65.88095238095238,28,2,1,0,Super|a little|an xl,The top i|length|pockets,2025-11-12T19:57:22.925434
+1054,52.53333333333333,8,1,0,0,These pants|great fit|great fabric,circulation|the calves|the tightness,2025-11-12T19:57:22.965288
+939,60.75925925925926,32,1,0,0,retailer|this sweetly vintage and feminine sweatercoat|the boiled wool,a bit|the large side|my usual m,2025-11-12T19:57:23.005537
+906,77.1304347826087,17,0,0,0,work|my style|boho,a hard time|sizes|sm-large,2025-11-12T19:57:23.045325
+965,61.64705882352941,10,1,1,0,"the simple, casual elegance|this coat|the colors, grey & beige",This sweater/jacket|the photo|real life,2025-11-12T19:57:23.085317
+881,61.92857142857143,15,1,0,0,most normal size retailer tops|the armpits and neckline|peplum,a pretty curvy girl|the m/l|exchange,2025-11-12T19:57:23.105382
+1035,69.76595744680851,32,3,0,0,this brand|the fit|the button detail,another reviewer|the quality|the thighs,2025-11-12T19:57:23.145486
+825,62.70967741935484,18,0,0,0,Fits|a maternity top|my age group,,2025-11-12T19:57:23.185386
+1008,77.3076923076923,41,1,0,0,a great skirt|a wedding|a cool tshirt,this skirt|today|the quality,2025-11-12T19:57:23.225506
+1204,99.0,2,0,0,0,"navy and lavender|5'6""|130 lbs",,2025-11-12T19:57:23.265227
+828,60.45762711864407,34,1,2,0,The burgundy plaid colors|my eye|the fall season,This shirt|no way|a 4 or 6,2025-11-12T19:57:23.305507
+840,34.608695652173914,6,4,0,0,"this top|a regular|5'2""",this top|size xl|a lot,2025-11-12T19:57:23.345330
+863,70.45544554455445,69,4,2,0,a great t-shirt|a great length|this top,both black and white shirt|white|black,2025-11-12T19:57:23.385724
+927,67.22727272727273,27,0,1,0,This sweater|a lot|compliments,the charcoal one|standard size m/l|slim jeans,2025-11-12T19:57:23.425461
+754,27.0,0,0,0,0,,,2025-11-12T19:57:23.465185
+777,75.8,4,0,0,0,These leggings|-to-size|enough stretch,These leggings|model|color,2025-11-12T19:57:23.505196
+979,93.25,4,0,0,0,Fit|a bit|large....i,,2025-11-12T19:57:23.545244
+868,61.57258064516129,73,4,6,0,this top today|work|the hallways,this shirt|a shirt|the shirt,2025-11-12T19:57:23.585871
+1037,60.5,4,1,0,0,These pants|love|first sight,a crop pant|the fit|a bigger size,2025-11-12T19:57:23.625258
+1059,63.54545454545455,66,4,2,0,the orange|the other two colors|my normal size 12 fit,these pants|both black|the burgundy pair,2025-11-12T19:57:23.665822
+1098,43.24242424242424,12,2,2,0,This dress|the poms|the hem and bodice,"5|4""|130lbs",2025-11-12T19:57:23.705409
+688,32.0,1,0,0,0,the workout leggings retailer|last year|sale-on-sale,,2025-11-12T19:57:23.745237
+998,26.25,1,1,0,0,a sleeper|sale|a great price,the other reviewer|the skirt|this weird bunching,2025-11-12T19:57:23.785223
+875,61.2,26,1,2,0,this too|jt|the mail,the chest|no thanks|my body,2025-11-12T19:57:23.825427
+1026,86.38888888888889,15,0,0,0,years|these printed pilcro cord leggings|every single year,,2025-11-12T19:57:23.865327
+1056,72.14285714285714,45,1,1,0,lbs|the 8|the honey color,the pilcro hyphen chinos|a size 25p|the same size,2025-11-12T19:57:23.905578
+1080,66.14634146341463,80,2,2,0,the white background|good reviews|the cut,This dress|years|the places,2025-11-12T19:57:23.945945
+968,57.166666666666664,3,0,0,0,120 lbs|this while shopping|my sister,my regular size|the fit|a snug,2025-11-12T19:57:23.985249
+245,82.5,1,0,0,0,this dress|1 star|5'1,,2025-11-12T19:57:24.025203
+921,62.166666666666664,4,0,1,0,This sweater|the ruffled shoulders|a feminine touch,the xs|an xs/s petite|an xxs or petite,2025-11-12T19:57:24.065231
+1016,19.61111111111111,2,2,0,0,this skirt|a month or so|the first time,an adorable and frustrating skirt|a large person|32d-26-36,2025-11-12T19:57:24.105289
+154,52.888888888888886,5,0,0,0,a lounge-at-home top|the colors and|pattern,,2025-11-12T19:57:24.145327
+1020,65.51190476190476,54,1,2,0,The fit|this skirt|alterations,all the buttons|three different ones|this skirt,2025-11-12T19:57:24.165723
+1087,44.7037037037037,12,2,0,0,lace dresses|this one|no exception,an oversized muumuu|the fabric|the amount,2025-11-12T19:57:24.225379
+909,62.294117647058826,29,1,0,0,the other reviews|the size|your hips,this sweater|its beautiful colors|cute graphic,2025-11-12T19:57:24.245512
+1114,99.0,2,0,0,0,a gala|next weekend|this beautiful cape,,2025-11-12T19:57:24.305221
+1082,51.940298507462686,33,8,1,0,the dress way|person|online,size|my frame|the print,2025-11-12T19:57:24.325672
+940,60.8974358974359,23,2,1,0,a beautiful warm cardigan|the picture|leggings,the look|this sweater|the workmanship,2025-11-12T19:57:24.385404
+873,65.73584905660377,67,3,2,0,style|the fabrics|this top,size|the waist and chest|my normal size,2025-11-12T19:57:24.405829
+899,53.46153846153846,6,0,1,0,my mother|a bit|the large side,this piece|a very boxy cut|the white layer,2025-11-12T19:57:24.465308
+35,99.0,3,0,0,0,this chemise|the pink|the most breathtaking blush,,2025-11-12T19:57:24.505274
+928,71.33333333333333,4,0,0,0,This sweater|person|the picture,,2025-11-12T19:57:24.525194
+1009,77.45,30,0,1,0,Such a cute|a touch|whimsy,Just didnt|the fit|front,2025-11-12T19:57:24.565497
+835,62.333333333333336,29,1,0,0,the photo|a plus|a bit,the blue|size 16|at least two,2025-11-12T19:57:24.605538
+548,0.0,0,0,1,0,,Unusual color|sale,2025-11-12T19:57:24.645208
+986,19.53846153846154,2,1,1,0,the first day|my wedding ring|my kids,The fabric|this entire garment|a normal-sized letter envelope,2025-11-12T19:57:24.685276
+1092,51.92307692307692,36,3,5,0,this dress|my mom|dresses,Embroidered tulips|the dresses|the product photos,2025-11-12T19:57:24.725697
+475,99.0,1,0,0,0,an awesome bra|a reinforced cup|an underwire,,2025-11-12T19:57:24.765214
+636,48.42857142857143,3,1,0,0,other reviewers|the material|a far better swimsuit cover-up,the quality|this dress|the model,2025-11-12T19:57:24.805238
+177,99.0,1,0,0,0,shorts|spring or summer|fits,,2025-11-12T19:57:24.845194
+964,79.22857142857143,25,0,1,0,a more polished edgy alternative|my jean jacket|a dress,website description|vest|polyester shearling-lined.that,2025-11-12T19:57:24.885408
+1025,60.77272727272727,25,1,1,0,these pants|5'2|length,runs|the opposite|the majority,2025-11-12T19:57:24.925445
+880,51.03703703703704,13,1,3,0,this i|a bit|the colors,This shirt|a canopy|my tent,2025-11-12T19:57:24.965340
+627,0.0,0,0,0,0,,,2025-11-12T19:57:25.005213
+839,70.72727272727273,15,0,2,0,"Great fit|reference|5'7""",the material|a little stiff|im asummig linen,2025-11-12T19:57:25.025325
+248,87.0,2,0,0,0,a 32dd|a bralette|the house,,2025-11-12T19:57:25.065213
+938,61.625,9,1,0,0,a great sweater|my new go|hte petite version,a reason|this sweater|sale,2025-11-12T19:57:25.105296
+1165,0.0,0,0,1,0,,general|a bathing suit|the v-neck,2025-11-12T19:57:25.145226
+818,41.285714285714285,8,1,1,0,"A romantic|the color|the soft, subtle ruffles",Two strikes|this top|the white top,2025-11-12T19:57:25.185335
+294,50.333333333333336,3,0,1,0,These pants|5'7|the length,The length|these pants|5'8,2025-11-12T19:57:25.225257
+155,71.53846153846153,9,1,0,0,These tights|three pairs|a nice casual look,The tights|the photo|my pairs,2025-11-12T19:57:25.265287
+1053,47.470588235294116,8,1,0,0,Great quality|these pants|jammies,this purchase|the perfect pant|this style,2025-11-12T19:57:25.285309
+945,66.66666666666667,12,3,0,0,5|regular size xs/s|great,this sweater|the knit|the sleeves,2025-11-12T19:57:25.325285
+877,70.44444444444444,61,1,1,0,My husband|the store|patterns,a few reviews|this shirt|the pictures,2025-11-12T19:57:25.365821
+170,45.6,1,1,0,0,This chemise|a staple|a bohemian wardrobe,a dress|a slip|20 pounds,2025-11-12T19:57:25.405252
+719,54.0,6,1,0,0,the mail|a m/l|the medium,5'3|the small|person,2025-11-12T19:57:25.445251
+570,0.0,0,0,0,0,,,2025-11-12T19:57:25.485205
+1117,71.5,4,0,0,0,a pretty|soft faux fur coat|retailer,,2025-11-12T19:57:25.525253
+1011,37.44444444444444,3,0,0,0,This skirt|a thick fabric|a freeze baby,,2025-11-12T19:57:25.565233
+970,21.0,0,0,0,0,a cute work jacket|jeans|only con,,2025-11-12T19:57:25.605228
+886,64.0,29,2,1,0,This tunic|black|lighter weight,this top|blue|the red color,2025-11-12T19:57:25.625479
+834,63.25,12,1,0,0,my normal size|the colors|the purple,so many great reviews|the print|the store,2025-11-12T19:57:25.665324
+1044,65.22222222222223,12,1,0,0,my local retailer|the sale rack|a moss green color,This one|no zipper|the very large neck hole,2025-11-12T19:57:25.750416
+705,81.0,3,0,0,0,This romper|the embroidery|the fit,,2025-11-12T19:57:25.785184
+2,9.0,0,0,0,0,,,2025-11-12T19:57:25.805125
+1137,85.25,3,0,0,0,This sweater tee|a fine but substantial knit|imperfections,,2025-11-12T19:57:25.845191
+676,48.833333333333336,3,0,0,0,this skort|vacation|hawaii,,2025-11-12T19:57:25.885118
+823,38.111111111111114,8,1,2,0,a tunic lover|a chance|5'4'',a reason|the model|her arms,2025-11-12T19:57:25.925299
+997,0.0,0,2,0,0,,a red and black skirt right|an obnoxious cherry red netting|cranberry crushed velvet insets,2025-11-12T19:57:25.945198
+1116,41.5,2,1,0,0,This sweater|my calves|an old wool blanket,Thought i|a tracy reese coat|a size small,2025-11-12T19:57:25.985244
+1036,81.0,4,0,0,0,these pants|all the time|love,,2025-11-12T19:57:26.025227
+822,45.22222222222222,4,2,0,0,This top|the white one|a little,this shirt|the mail|the floral design,2025-11-12T19:57:26.065240
+1021,43.5,1,0,0,0,This skirt|the pockets|lipstick,,2025-11-12T19:57:26.105209
+890,70.0,2,0,0,0,a whim|the 40% discount|sale price,,2025-11-12T19:57:26.125194
+647,75.5,3,0,0,0,a small mauve|the fit|the length,,2025-11-12T19:57:26.165222
+406,67.0,2,0,0,0,a petite size|my best|some stitches,,2025-11-12T19:57:26.205228
+824,65.25,14,1,0,0,a casual winter day|the fabric|the draping,this order|the shirt|any way,2025-11-12T19:57:26.245328
+1101,67.2,3,0,0,0,This dress|the shoulder|the description,the online pictures|the navy colored dress|the stripes,2025-11-12T19:57:26.285233
+1089,47.785714285714285,13,1,0,0,my dress|a little|the reviews,the previous reviewer|advice|a try,2025-11-12T19:57:26.325387
+870,39.92857142857143,4,1,1,0,this tunic|the fabric|winter,"my usual size small|36b bust|5'5""",2025-11-12T19:57:26.345312
+1187,0.0,0,0,0,0,,,2025-11-12T19:57:26.385221
+1104,64.98,31,2,2,0,the picture|the store|love,this dress|the skirt|the top,2025-11-12T19:57:26.425518
+900,32.5,1,0,0,0,a very chic tunic sweater|fabric|a good weight,,2025-11-12T19:57:26.465234
+413,0.0,0,0,1,0,,the romantic look|this robe and gown set|the material,2025-11-12T19:57:26.505189
+869,69.76190476190476,14,0,2,0,the green color|person|a little bit,bottoms|fit|The front,2025-11-12T19:57:26.545310
+292,97.66666666666667,3,0,0,0,this brand|the most tone tush|maaji,,2025-11-12T19:57:26.585218
+937,57.03225806451613,16,3,0,0,"grey, black simple clothes|a splash|everyday",the style|my husband|size xxl,2025-11-12T19:57:26.625364
+1083,61.74193548387097,17,2,0,1,only one review|this i|months,reviews|this dress|such a complete miss,2025-11-12T19:57:26.645426
+878,63.303030303030305,20,1,0,0,the black and white stripe|the blue|these t-shirts,this sweatshirt|unfolding|the first thing,2025-11-12T19:57:26.685441
+1003,60.833333333333336,7,0,0,0,This skirt|tts|a bit,,2025-11-12T19:57:26.725254
+593,50.5,1,0,0,0,the previous reviews|the first time|person,,2025-11-12T19:57:26.765204
+871,58.42857142857143,14,0,0,0,Fyi|the model|the top,sale sale|this tank|the money,2025-11-12T19:57:26.805366
+894,0.0,0,0,0,0,,,2025-11-12T19:57:26.845196
+613,99.0,1,0,0,0,Great|a beach coverup|a slip,,2025-11-12T19:57:26.885173
+1085,51.78947368421053,10,1,0,0,this dress|a thorough wearing|my expectations,Only one sleeve,2025-11-12T19:57:26.925307
+59,99.0,2,0,0,0,the perfect bralette|comfort|a b cup,,2025-11-12T19:57:26.945182
+995,61.166666666666664,7,2,0,0,those in-between seasons|The length|the cut,This skirt|my usual xs petite|the longest part,2025-11-12T19:57:26.985274
+844,49.285714285714285,12,3,2,0,"5.6""|138 pounds|a size",another reviewer|this shirt|only 5'2,2025-11-12T19:57:27.025397
+857,68.14814814814815,18,3,0,0,the patterned material|tee shirt material|lots,the fit|another reviewer|a swing tunic,2025-11-12T19:57:27.065439
+282,78.05714285714286,27,2,1,0,love|the pilcro brand|the pilcro hyphen chinos,the worst short|this short last week|yesterday,2025-11-12T19:57:27.105451
+1070,44.142857142857146,3,0,0,0,the mannequin|a small|the top,,2025-11-12T19:57:27.145258
+932,73.25,3,0,0,0,xs or s|zeros|a m.,,2025-11-12T19:57:27.185218
+891,38.333333333333336,1,0,0,0,previous reviews|a try|broader shoulders,,2025-11-12T19:57:27.225254
+889,0.0,0,0,0,0,,,2025-11-12T19:57:27.265237
+153,0.0,0,0,0,0,,,2025-11-12T19:57:27.305229
+1100,63.0,20,1,1,0,my favorite retailer dresses|two colors|your size,"5'4"", 32c and 125 lbs|the size 4p|the color and fabric",2025-11-12T19:57:27.325435
+336,98.5,4,0,0,0,the design|the laser cut outs|the wash,,2025-11-12T19:57:27.365229
+956,34.333333333333336,1,1,0,0,this blazer|work|a great statement,a seam|the middle|the back,2025-11-12T19:57:27.405200
+910,99.0,2,0,0,0,This sweater|fall|the color,,2025-11-12T19:57:27.445246
+855,1.2,0,0,1,0,,the picture|the top shoulder part|dress length,2025-11-12T19:57:27.485215
+949,63.58139534883721,27,3,1,0,Love|the color|unique,a m/l size|most things....|the maker and design,2025-11-12T19:57:27.525457
+730,0.0,0,0,0,0,,,2025-11-12T19:57:27.565218
+865,55.35,11,2,1,0,Super cute|my wardrobe|the grey color,this blouse|a petite s|the xs,2025-11-12T19:57:27.585243
+341,19.0,0,0,0,0,,,2025-11-12T19:57:27.625214
+912,28.2,3,0,2,0,"this plum and charcoal vest|5/9""|the m'l",belted sweaters|front|my knees,2025-11-12T19:57:27.665312
+481,44.0,3,0,0,0,This romper|my eye|the beginning,,2025-11-12T19:57:27.705214
+565,99.0,1,0,0,0,Love|love|this dress,,2025-11-12T19:57:27.745204
+851,88.5,2,0,0,0,a beautiful print|design|the shirt,,2025-11-12T19:57:27.785227
+790,99.0,1,0,0,0,different loose linen|the raw edge|the color,,2025-11-12T19:57:27.805201
+1051,30.5,3,0,0,0,great fit|wedges|flats,this romper|store|great romper,2025-11-12T19:57:27.845297
+107,85.875,7,0,0,0,a phenomenal wardrobe peice|quality|comfort,,2025-11-12T19:57:27.885233
+1050,52.25,2,0,0,0,an xl|5'8|the pants,,2025-11-12T19:57:27.925212
+411,34.4,1,1,0,0,Hi ladies|this bra|a contortionist,This bra|a size|a contortionist,2025-11-12T19:57:27.965259
+381,87.11111111111111,8,0,0,0,1 piece|every time|this i,,2025-11-12T19:57:27.985286
+463,79.4,4,0,0,0,"A lovely, soft material|a subtle aqua pattern|seams",,2025-11-12T19:57:28.025254
+916,30.75,1,0,0,0,this sweater|a little|the bulk,,2025-11-12T19:57:28.065225
+465,61.0,0,0,0,0,The print|this top|person,,2025-11-12T19:57:28.105233
+1028,81.375,13,0,0,0,mom|two boys|the go,,2025-11-12T19:57:28.145358
+842,50.0,2,0,0,0,skinny jeans and espadrilles|black linen shorts|high waisted slim fit black pants,,2025-11-12T19:57:28.185218
+329,99.0,1,0,0,0,"xs|5'4""|115lbs",,2025-11-12T19:57:28.225212
+126,1.0,0,0,0,0,,,2025-11-12T19:57:28.245207
+944,40.75,1,0,1,0,Such a pretty little sweater|gorgeous detail|a bit,a 6/8|the small,2025-11-12T19:57:28.285230
+360,93.75,4,0,0,0,way cuter|person|the look,,2025-11-12T19:57:28.325211
+841,37.54545454545455,4,3,0,0,Lovely embroidery|a classic look|great addition,paper crown dresses|a small|size 6,2025-11-12T19:57:28.365256
+738,99.0,1,0,0,0,This swimsuit|my expectations|5'2,,2025-11-12T19:57:28.405194
+1147,28.857142857142858,1,1,0,0,This gorgeous &amp;amp;amp; beautiful dress|a see-through unlined bodice|all viscose/polyester fabrication,The top|the touch|the idea,2025-11-12T19:57:28.425207
+238,99.0,1,0,0,0,This swimsuit|comfortable,,2025-11-12T19:57:28.465199
+615,0.0,0,0,0,0,,,2025-11-12T19:57:28.505204
+1055,30.7,3,3,0,0,These culottes|two whole sizes|fabric,these culottes|the fabric|the size,2025-11-12T19:57:28.545255
+132,49.75,2,0,1,0,a short torso|baby|34d boobs,this romper|1x|the hem,2025-11-12T19:57:28.585233
+1142,49.5,1,0,1,0,these sweaters............|color i|my favs,this sweater|the online pictures|the ombre coloring,2025-11-12T19:57:28.605206
+562,31.0,1,1,0,0,a beautiful and versatile skirt|the layered detail|length,a cute business attire skirt|amelia bedelia|some whacky children,2025-11-12T19:57:28.645200
+116,41.6,2,2,0,0,This robe|a shower|the sleeves,lower quality|other robes|the other reviews,2025-11-12T19:57:28.685219
+864,59.26315789473684,11,2,0,0,this top|size|a size,This blouse|too much drapey fabric|the front part,2025-11-12T19:57:28.725348
+634,72.0,9,0,0,0,This dress|the best casual|flips flops,the fact|this dress|a lot,2025-11-12T19:57:28.765287
+902,34.0,4,2,1,0,this top|design|size,The shirt|a weird yellow tinge|other reviewers,2025-11-12T19:57:28.805266
+1079,6.166666666666667,0,0,1,0,,This dress|a black rope belt|belt loops,2025-11-12T19:57:28.845241
+191,37.0,0,0,0,0,this material|the packaging|the top,,2025-11-12T19:57:28.865151
+442,67.66666666666667,2,0,0,0,the spring|white capris/ leggings|awesome,,2025-11-12T19:57:28.905224
+1097,73.5,4,0,1,0,the dress|many different jackets kimonos and sweaters|Cute dress,this dress|my doorstep|no shape,2025-11-12T19:57:28.945244
+941,54.9,11,1,0,0,my favorite sweaters|the season|jeans,This sweater|pictures|another problem,2025-11-12T19:57:28.985296
+963,52.0,2,1,0,0,the warm climates|a lot|something light weight,the idea|this top|the sequins,2025-11-12T19:57:29.025205
+830,76.06666666666666,11,0,0,0,this top|the mail and love love|the pricey side,the photo|the cut|5'9,2025-11-12T19:57:29.045294
+641,38.4,3,1,0,0,the store|a large|a small,this dress|a cute beach cover|5'7,2025-11-12T19:57:29.085282
+994,40.666666666666664,1,0,0,0,This skirt|my eye|the beautiful patterns and colors,,2025-11-12T19:57:29.125199
+137,9.0,0,0,0,0,,,2025-11-12T19:57:29.165203
+952,74.54545454545455,8,0,0,0,An interesting design|a high-quality garment|size,,2025-11-12T19:57:29.205284
+1126,56.9,5,0,0,0,Great coat|the length|a m,,2025-11-12T19:57:29.245237
+1125,75.84615384615384,9,0,0,0,this coat|the size 6|a size 6 petite,,2025-11-12T19:57:29.265275
+464,99.0,1,0,0,0,The mara hoffman cross-front one-piece|penny|the colors,,2025-11-12T19:57:29.305213
+999,80.8,7,0,0,0,this skirt|its elegant|three seasons,,2025-11-12T19:57:29.345266
+1134,43.333333333333336,1,0,0,0,sanctuary clothing|this parka|the lighter side,,2025-11-12T19:57:29.385228
+1103,59.0,6,1,1,0,this dress|an excellent purchase|white leggins,The dress|a blue lining|the patterned chiffon,2025-11-12T19:57:29.425270
+1105,0.0,0,0,0,0,,,2025-11-12T19:57:29.465194
+859,61.833333333333336,3,0,0,0,The photo|this top justice|the tie,,2025-11-12T19:57:29.485063
+745,99.0,5,0,0,0,texture and thickness|super soft fleece|the inside,,2025-11-12T19:57:29.525197
+230,99.0,1,0,0,0,far the most comfortable bra|the convertible strap feature|shirts,,2025-11-12T19:57:29.565206
+1049,86.11111111111111,8,0,0,0,dinner|a lounge|piece,,2025-11-12T19:57:29.585237
+1076,33.2,1,2,0,0,This dress|light weight|a slip,no way|the price|the material,2025-11-12T19:57:29.625213
+334,48.0,1,0,0,0,a basic black one piece suit|the tummy|style,,2025-11-12T19:57:29.665211
+832,52.5,3,1,0,0,this blouse|the cut and style|the blouse,my recent retailer order|the meleri eyelet tank|a stain,2025-11-12T19:57:29.705219
+5,99.0,1,0,0,0,the prowl|the other colors|this fantastic sweater dress/tunic,,2025-11-12T19:57:29.745184
+715,98.0,6,0,0,0,a great fit|super cute|price,,2025-11-12T19:57:29.765190
+1048,62.125,5,1,0,0,a love and hate|fit and fashion|super beautiful clothes,This jumpsuit|the model|5'4,2025-11-12T19:57:29.805239
+1160,5.0,0,0,0,0,,,2025-11-12T19:57:29.845170
+720,77.4,4,0,0,0,a warm summer day|a m|the m,,2025-11-12T19:57:29.885208
+257,85.44444444444444,8,0,0,0,christmas|this year|several days,,2025-11-12T19:57:29.905183
+967,54.714285714285715,3,0,0,0,5'3|the petite|this option,,2025-11-12T19:57:29.945272
+883,48.1578947368421,7,1,0,0,the lattice inserts|ventilation|a hot summer day,this top|a short waist,2025-11-12T19:57:29.985290
+751,0.0,0,0,0,0,,,2025-11-12T19:57:30.025197
+1027,45.75,3,0,0,0,the most flattering pair|white jeans|people,,2025-11-12T19:57:30.065236
+1023,0.0,0,0,0,0,,,2025-11-12T19:57:30.105209
+1005,61.166666666666664,3,0,0,0,this skirt|edgy tops|the detailing,,2025-11-12T19:57:30.125248
+129,77.77777777777777,7,1,0,0,This pullover|a cold day|some nice things,this pajama set|the design|the fabric,2025-11-12T19:57:30.165269
+105,99.0,1,0,0,0,all other work|crops|my anatomy,,2025-11-12T19:57:30.205187
+783,99.0,1,0,0,0,"This pants|a little flare|my typical ""mom pajama"" look",,2025-11-12T19:57:30.245253
+50,99.0,1,0,0,0,the body|the way|undergarments,,2025-11-12T19:57:30.285243
+201,87.0,1,0,0,0,These tights|the shimmer|person,,2025-11-12T19:57:30.305195
+352,99.0,1,0,0,0,person|a little|the photo,,2025-11-12T19:57:30.345194
+1115,62.75,2,0,1,0,this coat|the price|a little,This vest|a button|my own,2025-11-12T19:57:30.385211
+1041,47.5,1,0,0,0,a nice piece|the fabric|a little structure,,2025-11-12T19:57:30.425222
+746,1.0,0,0,0,0,,,2025-11-12T19:57:30.465197
+1065,52.5,0,0,0,0,the package|an hour-glass figure|the waist,,2025-11-12T19:57:30.485151
+815,62.6,12,1,0,0,This top|tts|model,the fabric|a tank top|a good look,2025-11-12T19:57:30.525316
+838,37.46666666666667,5,2,0,0,other reviews|the colors and design|the blouse,the store|the hanger|model-sized people,2025-11-12T19:57:30.565315
+662,69.42857142857143,4,1,0,0,this dress|the window|the santa barbara store,This dress|the hanger|absolutely nothing,2025-11-12T19:57:30.605254
+1004,61.0,4,0,1,0,This flared skirt|my attention|the first time,The fabric|the pics|a bit,2025-11-12T19:57:30.645261
+702,0.0,0,0,0,0,,,2025-11-12T19:57:30.685215
+392,90.33333333333333,3,0,0,0,these bottoms|a bikini botom i|my babies,,2025-11-12T19:57:30.725216
+934,9.0,0,0,0,0,,,2025-11-12T19:57:30.745193
+410,0.0,0,0,0,0,,,2025-11-12T19:57:30.785192
+422,80.66666666666667,2,0,0,0,These pants|a very odd design|a trip,,2025-11-12T19:57:30.825220
+135,74.25,3,0,0,0,these shorts|the perfect length|shorts,,2025-11-12T19:57:30.865231
+313,58.0,0,0,0,0,a layering tunic|the job|5'11,,2025-11-12T19:57:30.905162
+918,98.5,2,0,0,0,The pictures|this cardi justice|cropped cardigan,,2025-11-12T19:57:30.925147
+363,65.33333333333333,2,1,0,0,a return|our store|a little,this bodysuit|a hole|the arm,2025-11-12T19:57:30.965210
+663,75.73333333333333,11,0,0,0,this tunic dress|a favorite|mine,,2025-11-12T19:57:31.005268
+817,75.33333333333333,4,0,0,0,This shirt|the pictures|the model,,2025-11-12T19:57:31.045255
+988,47.2,2,1,1,0,the colors|fall|work,the package|this skirt|the waist,2025-11-12T19:57:31.085261
+295,22.5,0,0,1,0,fitting|suction cups|your body,a size|a small|this case,2025-11-12T19:57:31.105188
+462,66.0,2,0,0,0,the look|the model|my vacation,,2025-11-12T19:57:31.145204
+176,44.8,2,1,0,0,Super|last year|version,This one|my shoulders and neck|a creepy way,2025-11-12T19:57:31.185229
+926,0.0,0,0,0,0,,,2025-11-12T19:57:31.225171
+398,99.0,1,0,0,0,This sweater|fit|the photograph,,2025-11-12T19:57:31.265176
+1030,58.65,11,1,0,0,These jeans|petites|way younger,the picture|super high-waisted|longer,2025-11-12T19:57:31.285311
+439,64.33333333333333,2,0,0,0,a medium|large|retailer clothes,,2025-11-12T19:57:31.325240
+652,21.333333333333332,0,1,1,0,the fit|your overall body type|a small,These pants|the quality|super thin cotton,2025-11-12T19:57:31.365259
+486,20.0,0,0,0,0,,,2025-11-12T19:57:31.405245
+1075,56.15384615384615,7,0,0,0,my go|this past summer|cute wedges,This style|shirtdress|one bit,2025-11-12T19:57:31.445308
+1184,99.0,2,0,0,0,This top|the color|this top,,2025-11-12T19:57:32.285242
+478,74.5,3,0,0,0,These shorts|the embroidery work|the dark yellow,,2025-11-12T19:57:32.325277
+1197,95.33333333333333,3,0,0,0,this dress|another color|retailer,,2025-11-12T19:57:32.365221
+1084,46.9,8,0,0,0,the unique style|this dress|the bell sleeves,this dress|both times|the zipper,2025-11-12T19:57:32.405398
+538,97.0,1,0,0,0,The straps|the material|the color,,2025-11-12T19:57:32.425276
+52,98.0,2,0,0,0,"taupe, mint, and coral|3 different lengths|my regular size",,2025-11-12T19:57:32.465213
+225,63.666666666666664,4,0,0,0,Such cute|a thick knit|very good quality,,2025-11-12T19:57:32.505283
+845,55.5,3,0,0,0,This blouse|a perfect creation|perfect-weight cotton,,2025-11-12T19:57:32.545245
+678,55.5,3,0,0,0,this item|the weightlessness|a silk skirt,,2025-11-12T19:57:32.585237
+732,99.0,1,0,0,0,Unique pattern|lots|compliments,,2025-11-12T19:57:32.625191
+1195,0.0,0,0,1,0,,The fabric|the full length shell|the dress,2025-11-12T19:57:32.645191
+255,71.75,3,0,1,0,This hoodie|a great fit|the waist,The body|the arms,2025-11-12T19:57:32.685213
+1038,72.25,8,0,0,0,"These jeans|5'5""|an hourglass figure",,2025-11-12T19:57:32.725265
+150,44.4,2,1,0,0,this jacket|a beautiful shade|ivory,way cuter|the model|my 5'2 frame,2025-11-12T19:57:32.765228
+412,97.0,1,0,0,0,This bra|the one|comfy bra,,2025-11-12T19:57:32.805203
+505,97.75,4,0,0,0,both the floral sleep shorts|the top|the floral watercolor pattern,,2025-11-12T19:57:32.825192
+252,89.27272727272727,10,0,0,0,This swimsuit|the teal|a little,,2025-11-12T19:57:32.865299
+302,49.5,1,0,0,0,the fabric|size|great quality,,2025-11-12T19:57:32.905210
+946,0.0,0,2,0,0,,sweaters|this sweater|a large,2025-11-12T19:57:32.945258
+933,42.42857142857143,3,1,0,0,a frequent retailer shopper|many items|this one,the previous review|the design fit|proportions,2025-11-12T19:57:32.985259
+506,92.2,4,0,0,0,this purchase|lovely print|good fit,,2025-11-12T19:57:33.025257
+1013,34.0,0,0,0,0,This skirt|a nice medium weight|my normal size 4,,2025-11-12T19:57:33.045181
+1145,43.111111111111114,4,1,1,0,such a fun dress|both boxes|a small size,this cardigan|the review|a small,2025-11-12T19:57:33.085258
+127,61.166666666666664,3,0,0,0,Comfy|a bit|the big size,,2025-11-12T19:57:33.125275
+502,49.5,1,0,0,0,love|this swimsuit|a bit,,2025-11-12T19:57:33.165224
+232,48.5,1,1,0,0,this top|my normal size medium|160 lbs,the quality|the fabric|shape,2025-11-12T19:57:33.205226
+805,2.5,0,0,0,0,,,2025-11-12T19:57:33.245230
+68,99.0,2,0,0,0,gray|white|your mothers',,2025-11-12T19:57:33.265199
+1131,99.0,3,0,0,0,this vest|the store|the colors,,2025-11-12T19:57:33.305215
+747,97.0,1,0,0,0,the bra and matching panty|the mail|the true color,,2025-11-12T19:57:33.345225
+609,99.0,2,0,0,0,a large|a 36d 140lbs|this top,,2025-11-12T19:57:33.385235
+753,99.0,2,0,0,0,This hoodie|the tie bottom|the hips,,2025-11-12T19:57:33.425230
+948,18.0,1,1,0,0,A very versatile and cozy top|a casual comfy fall day|a fun piece,the idea|this sweater,2025-11-12T19:57:33.445301
+911,49.5,1,0,0,0,This top|a great preppy casual look|weekends,,2025-11-12T19:57:33.485220
+1074,40.0,0,0,0,0,,,2025-11-12T19:57:33.525195
+800,54.0,1,0,0,0,my usual size|the other reviewer|front,,2025-11-12T19:57:33.565187
+121,33.666666666666664,2,0,0,0,the grey|the black and cream i|soft,,2025-11-12T19:57:33.605295
+807,60.333333333333336,2,0,0,0,this sweet little cami|all three colors|the black,,2025-11-12T19:57:33.625244
+1052,61.0,4,0,0,0,joggers|best style|the fabric,,2025-11-12T19:57:33.665260
+472,78.6,4,0,0,0,boring shorts|the store|size,,2025-11-12T19:57:33.705232
+959,89.5,2,0,0,0,cute and great fit|the belt|a different look,,2025-11-12T19:57:33.745213
+943,46.6,2,0,0,0,skinny jeans|leggings|trouser/ wide leg,,2025-11-12T19:57:33.785229
+573,41.1,4,0,2,0,Love|this dress|full price,My first complaint|this dress|the video,2025-11-12T19:57:33.825283
+330,0.0,0,0,0,0,,a large|the look,2025-11-12T19:57:33.845209
+858,48.5,1,0,0,0,carbon|store|a ton,,2025-11-12T19:57:33.885221
+1010,23.0,0,0,0,0,"med|fine, cute,lightweight, swingy, flirty, fun, almost knee length|a 10-12",,2025-11-12T19:57:33.925197
+977,48.77777777777778,3,1,1,0,This coat|an xs-s|retailer,any curves|a sack|the material,2025-11-12T19:57:33.965253
+144,95.33333333333333,6,0,0,0,Great|good color and quality|a lot,,2025-11-12T19:57:34.005216
+149,77.0,1,0,0,0,"5'6"" 113lbs|size|rich navy",,2025-11-12T19:57:34.025172
+151,53.0,0,0,0,0,A very pretty pair|over-the-knee socks|the dark grey color,,2025-11-12T19:57:34.065201
+409,0.0,0,0,0,0,,,2025-11-12T19:57:34.105208
+552,3.5,0,1,0,0,,The jeans|the pair|the stone,2025-11-12T19:57:34.145241
+160,99.0,1,0,0,0,fitting bra|lace|tops,,2025-11-12T19:57:34.185203
+1018,22.5,0,0,0,0,,,2025-11-12T19:57:34.205191
+1156,99.0,1,0,0,0,these bottoms|great colors|the feel,,2025-11-12T19:57:34.245198
+947,65.83333333333333,8,0,0,0,this sweater|my local retailer|a xs - s,the s|ivory|the color i,2025-11-12T19:57:34.285313
+485,99.0,1,0,0,0,Exactly as pictured|great,,2025-11-12T19:57:34.325218
+1014,99.0,2,0,0,0,This skirt|today|the fabric,,2025-11-12T19:57:34.365210
+767,89.0,2,0,0,0,the black xs|the larkspur midi dress|the skirt portion,,2025-11-12T19:57:34.385132
+659,99.0,1,0,0,0,This top|the pink|the print,,2025-11-12T19:57:34.425221
+635,20.2,1,0,1,0,a great dress|the house|the world,My 3 daughters|a size|heights,2025-11-12T19:57:34.465236
+373,99.0,1,0,0,0,many bralettes|this one|the floral lace,,2025-11-12T19:57:34.505227
+1154,81.0,1,0,0,0,size|a 30dd|32d,,2025-11-12T19:57:34.545209
+827,48.0,1,0,0,0,Such a cute top|such a simple design|the quality,,2025-11-12T19:57:34.565181
+1140,49.5,1,0,0,0,this skirt|the quality|the fabric and style,This skirt|starters|the natural waist,2025-11-12T19:57:34.605210
+189,80.5,1,0,0,0,"My review|the ""black motif|a bunch",,2025-11-12T19:57:34.645227
+491,99.0,1,0,0,0,"great, lightweight top layer|the little evening chill|the summer",,2025-11-12T19:57:34.685207
+1177,5.5,0,0,0,0,,,2025-11-12T19:57:34.725229
+448,99.0,1,0,0,0,these shorts|the tag sale|the legs,,2025-11-12T19:57:34.745197
+796,0.0,0,0,0,0,,,2025-11-12T19:57:34.785219
+797,0.0,0,0,0,0,,,2025-11-12T19:57:34.825197
+624,51.0,1,0,0,0,a bit|fabric and fit,,2025-11-12T19:57:34.865203
+874,35.666666666666664,1,0,0,0,"This cute top|a nice fit|arms, shoulders, and bust",,2025-11-12T19:57:34.885229
+876,41.111111111111114,3,1,0,0,this top|size|my retailer tops,this shirt|the quality|person,2025-11-12T19:57:34.925280
+117,52.25,2,0,0,0,many compliments|the first day|amazing fit,other leggings|retailer,2025-11-12T19:57:34.965232
+246,0.0,0,0,0,0,,,2025-11-12T19:57:35.005225
+690,99.0,1,0,0,0,a simple design|so many|retailer,,2025-11-12T19:57:35.045228
+71,98.0,1,0,0,0,Fun|sneakers|or just,,2025-11-12T19:57:35.085202
+118,0.0,0,1,0,0,,the picture|my hips,2025-11-12T19:57:35.105174
+88,99.0,1,0,0,0,these pretty boy shorts|a panty|bedtime,,2025-11-12T19:57:35.145211
+929,2.6666666666666665,0,1,0,0,,this sweater|a tunic|the sweater,2025-11-12T19:57:35.185239
+1088,25.0,0,0,0,0,The idea|this dress|the fabric,,2025-11-12T19:57:35.225231
+969,97.0,2,0,0,0,the reviews|an xs or s|the brand,,2025-11-12T19:57:35.265224
+645,98.66666666666667,3,0,0,0,this tank|the interesting open neck|the straps,,2025-11-12T19:57:35.285240
+782,33.333333333333336,1,0,0,0,this top|3 times|about 2 weeks,,2025-11-12T19:57:35.325229
+787,99.0,1,0,0,0,These pants|the house,,2025-11-12T19:57:35.365198
+368,0.3333333333333333,0,0,0,0,,3 tags|2 small|about 1'',2025-11-12T19:57:35.405229
+1015,95.33333333333333,3,0,0,0,maxi skirts|this skirt|all the great reviews,,2025-11-12T19:57:35.445214
+543,54.5,1,0,0,0,these shorts|the subtle floral pattern|person,,2025-11-12T19:57:35.465205
+1046,65.66666666666667,4,0,0,0,the bottom|5'3|summer,these pants|an upcoming trip|my outfits,2025-11-12T19:57:35.505241
+56,11.0,0,0,0,0,,,2025-11-12T19:57:35.545217
+197,0.0,0,0,0,0,,,2025-11-12T19:57:35.585190
+212,4.0,0,0,0,0,,,2025-11-12T19:57:35.625207
+973,0.0,0,1,0,0,,a very deep discount|this piece|the money,2025-11-12T19:57:35.645167
+1122,97.0,1,0,0,0,a favulous cape|fact|other colors,,2025-11-12T19:57:35.685206
+431,99.0,1,0,0,0,This bra|person|the pic,,2025-11-12T19:57:35.725201
+273,0.0,0,1,0,0,,these pants|about 75%|the material,2025-11-12T19:57:35.765186
+13,0.0,0,0,0,0,,,2025-11-12T19:57:35.785162
+744,99.0,1,0,0,0,chemise|figure flattering|just the right length,,2025-11-12T19:57:35.825217
+124,87.4,4,0,0,0,Super|the woodland animals|the pattern,,2025-11-12T19:57:35.865245
+620,99.0,2,0,0,0,the shorts|the blue motif|a tank top,,2025-11-12T19:57:35.905192
+299,88.0,1,0,0,0,both the grey and moss|loose fitting casual shorts|a bit,,2025-11-12T19:57:35.945210
+801,54.0,1,0,0,0,this jumpsuit|the xs|the material,,2025-11-12T19:57:35.965113
+837,33.333333333333336,2,2,0,0,a $100  blouse|advantage|the sale,The price|no thanks|chances,2025-11-12T19:57:36.005240
+319,99.0,1,0,0,0,these shorts|a medium|my legs,,2025-11-12T19:57:36.045236
+1031,33.0,1,0,0,0,Beautiful|sturdy denim|probably the best denim,,2025-11-12T19:57:36.085278
+931,47.5,1,0,0,0,this sweater|my only worry|the little loops,,2025-11-12T19:57:36.125206
+305,0.0,0,0,0,0,,,2025-11-12T19:57:36.145195
+1166,99.0,1,0,0,0,Perfect|so many compliments|all my suits,,2025-11-12T19:57:36.185214
+495,3.5,0,1,0,0,,the shorts|my underwear|the fabric,2025-11-12T19:57:36.225216
+346,19.0,0,0,0,0,,,2025-11-12T19:57:36.265219
+935,66.0,2,0,0,0,a great sweater/poncho|a little|a t shirt,,2025-11-12T19:57:36.305210
+366,99.0,1,0,0,0,this top|a tank and jeans|the weekend,,2025-11-12T19:57:36.325202
+1146,65.66666666666667,2,0,1,0,this dress|my wedding rehearsal dinner|the material,this designer|size|this top,2025-11-12T19:57:36.365209
+1063,2.0,0,0,0,0,,,2025-11-12T19:57:36.405206
+458,70.0,0,0,0,0,the navy stripe|a small|a medium,,2025-11-12T19:57:36.445195
+429,5.0,0,0,0,0,,,2025-11-12T19:57:36.465139
+920,67.33333333333333,2,0,0,0,a dinner-party|people|the surprise,,2025-11-12T19:57:36.505203
+178,0.0,0,0,0,0,,,2025-11-12T19:57:36.545213
+649,99.0,2,0,0,0,Love|the bright colors|the usa,,2025-11-12T19:57:36.585137
+122,99.0,2,0,0,0,Love|a lot|wear,,2025-11-12T19:57:36.605172
+766,0.0,0,0,1,0,,the fabric|every bump and roll|that price,2025-11-12T19:57:36.645142
+683,99.0,1,0,0,0,this sweatshirt|new favorite|a comfy,,2025-11-12T19:57:36.685186
+966,73.75,3,0,0,0,this vest|the color|a little,,2025-11-12T19:57:36.725212
+4,98.0,1,0,0,0,This sweater|a quirky hand-knit look|a beautiful color,,2025-11-12T19:57:36.745145
+697,49.5,1,0,0,0,such a neat dress|the color|the fabric,,2025-11-12T19:57:36.785193
+146,98.75,4,0,0,0,these pajama bottoms|the print|fun,,2025-11-12T19:57:36.825174
+813,4.0,0,0,0,0,,,2025-11-12T19:57:36.865206
+585,89.0,1,0,0,0,the material|a wonderful drape and hand|the string tie straps,,2025-11-12T19:57:36.905194
+404,58.666666666666664,2,0,0,0,a new bathing suit|the more tame colors|certain times,,2025-11-12T19:57:36.925211
+511,66.0,2,0,0,0,Such a beautiful top|other reviews|personal i,,2025-11-12T19:57:36.965204
+434,28.0,0,0,0,0,,,2025-11-12T19:57:37.005181
+1172,99.0,1,0,0,0,Absolutely|this suit|the bottoms,,2025-11-12T19:57:37.045193
+96,0.0,0,0,0,0,,,2025-11-12T19:57:37.065175
+1139,45.0,0,0,0,0,,,2025-11-12T19:57:37.105187
+976,0.0,0,1,0,0,,a flowy kimono top|pictured|a thick blazer type garment,2025-11-12T19:57:37.145194
+954,0.0,0,0,0,0,,,2025-11-12T19:57:37.185184
+1119,99.0,2,0,0,0,this piece|sale months|every outfit,,2025-11-12T19:57:37.205143
+516,21.5,0,0,0,0,,,2025-11-12T19:57:37.245222
+888,18.0,0,0,0,0,,,2025-11-12T19:57:37.285180
+670,80.0,1,0,0,0,These pants|fun|sleep pants,,2025-11-12T19:57:37.325200
+494,49.5,1,0,0,0,the cutest romper|very high quality|a challenge,,2025-11-12T19:57:37.345124
+1090,99.0,1,0,0,0,this dress|an awards ceremony|the quality and detailing,,2025-11-12T19:57:37.385200
+594,99.0,1,0,0,0,Absolutely gorgeous|feminine|wish i,,2025-11-12T19:57:37.425173
+1058,2.5,0,1,0,0,,these pants|a total disappointment|person,2025-11-12T19:57:37.465182
+798,98.0,1,0,0,0,"size|5|' 6""",,2025-11-12T19:57:37.485160
+427,99.0,1,0,0,0,love|this top|all colors,,2025-11-12T19:57:37.525244
+1123,99.0,2,0,0,0,the colorblock color combo|the colors|so many things,,2025-11-12T19:57:37.565210
+525,78.0,1,0,0,0,a nice piece|briefs|nice coverage,,2025-11-12T19:57:37.605200
+1128,45.5,1,0,0,0,this coat|the attached scarf|the cute buttons,,2025-11-12T19:57:37.625200
+950,97.5,2,0,0,0,my eye|a problem|the color,,2025-11-12T19:57:37.665179
+1144,2.0,0,0,0,0,,,2025-11-12T19:57:37.705209
+1133,51.6,2,0,0,0,"an attractive, fitted vest|the tight belt|the back",,2025-11-12T19:57:37.745218
+521,0.0,0,0,0,0,,,2025-11-12T19:57:37.765140
+21,98.0,1,0,0,0,the afterward lace cardigan|the black and white|about 2 years,,2025-11-12T19:57:37.805198
+930,66.0,2,0,0,0,this cardigan|the front|lots,,2025-11-12T19:57:37.845222
+164,30.0,0,0,0,0,the way|the previous reviewer|a size 6,,2025-11-12T19:57:37.885198
+1118,99.0,1,0,0,0,Runs|size|allowance,,2025-11-12T19:57:37.905151
+914,99.0,1,0,0,0,this sweater|black - size small|a slender 5,,2025-11-12T19:57:37.945114
+639,99.0,1,0,0,0,this top/dress/coverup|a lil|a more fitted look,,2025-11-12T19:57:37.985213
+385,49.5,1,0,0,0,Super soft|xs|most comfortable fit,,2025-11-12T19:57:38.025181
+847,96.0,3,0,0,0,This shirt|the adjustable front tie|the perfect length,,2025-11-12T19:57:38.045202
+18,0.0,0,0,0,0,,,2025-11-12T19:57:38.085182
+612,54.0,0,0,0,0,a week|full price|vacation,,2025-11-12T19:57:38.125190
+1093,0.0,0,0,0,0,,,2025-11-12T19:57:38.165206
+338,38.0,0,0,0,0,,,2025-11-12T19:57:38.185195
+769,98.0,1,0,0,0,The design|both my kids|a keeper,,2025-11-12T19:57:38.225206
+206,32.0,0,0,0,0,,,2025-11-12T19:57:38.265199
+908,99.0,2,0,0,0,this duster|my usual size|exactly as pictured,,2025-11-12T19:57:38.305202
+1175,1.0,0,0,0,0,,,2025-11-12T19:57:38.325094
+235,0.0,0,2,0,0,,a mara hoffman suit|this suit|the mail,2025-11-12T19:57:38.365220
+418,67.0,1,0,0,0,lightweight summer pajamas|the print|person,,2025-11-12T19:57:38.405184
+1109,2.0,0,0,0,0,,,2025-11-12T19:57:38.445167
+47,67.0,0,0,0,0,the teal suit|nice coverage|a nursing mom,,2025-11-12T19:57:38.465145
+904,0.0,0,0,0,0,,,2025-11-12T19:57:38.505184
+173,99.0,1,0,0,0,Cute little sleep|the elastic band|digging,,2025-11-12T19:57:38.545181
+89,16.0,0,0,0,0,,,2025-11-12T19:57:38.585203
+324,99.0,1,0,0,0,a finished look|yet fun|errands,,2025-11-12T19:57:38.605147
+739,99.0,3,0,0,0,my attention|store|the fabric,,2025-11-12T19:57:38.645207
+1130,94.0,1,0,0,0,Coat|an xsp|an xxsp,,2025-11-12T19:57:38.685170
+1199,85.0,1,0,0,0,This dress|orange|very light weight,,2025-11-12T19:57:38.725180
+580,83.0,1,0,0,0,"the sweatshirt 
+ clay color|a nice light fabric|nice detailed edges",,2025-11-12T19:57:38.745078
+270,99.0,1,0,0,0,This bikini|a glove|a true xs,,2025-11-12T19:57:38.785178
+596,99.0,1,0,0,0,This easel caftan|the silhouette|all sizes and shapes,,2025-11-12T19:57:38.825168
+20,89.0,1,0,0,0,My husband|my birthday|a more fun occasion,,2025-11-12T19:57:38.865179
+179,0.0,0,0,0,0,,,2025-11-12T19:57:38.885094
+396,47.0,1,0,0,0,my first shot|high-rise bottoms|the fit,,2025-11-12T19:57:38.925208
+468,98.0,1,0,0,0,these mara hoffman classic bikini bottoms|flight azure print.today|high quality,,2025-11-12T19:57:38.965204
+724,13.0,0,0,0,0,,,2025-11-12T19:57:39.005165
+288,99.0,1,0,0,0,no inner lining|a gorgeous bra|the straps,,2025-11-12T19:57:39.025521
+323,77.0,1,0,0,0,The shorts|quality|intricate detailing,,2025-11-12T19:57:39.065176
+405,0.0,0,0,1,0,,a 25 or 26|paige jeans|the 25,2025-11-12T19:57:39.105185
+598,0.0,0,0,0,0,,,2025-11-12T19:57:39.145180
+30,0.0,0,0,0,0,,,2025-11-12T19:57:39.165162
+306,2.0,0,1,0,0,,this colorful romper|the fabric|and very,2025-11-12T19:57:39.205184
+374,48.2,2,0,0,0,This fabric|a little bit|heaven,,2025-11-12T19:57:39.245207
+80,0.0,0,1,0,0,,swimming,2025-11-12T19:57:39.285180
+63,0.0,0,0,0,0,,,2025-11-12T19:57:39.305090
+675,99.0,1,0,0,0,this jacket|size|great craftsmanship,,2025-11-12T19:57:39.345189
+788,99.0,1,0,0,0,this easy caftan short dress,,2025-11-12T19:57:39.385211
+1120,99.0,1,0,0,0,"A flattering|super cozy coat|cold, dry days",,2025-11-12T19:57:39.405139
+978,95.0,1,0,0,0,a lover|jackets and coats|my new fave,,2025-11-12T19:57:39.445188
+648,99.0,1,0,0,0,pure good printed leggings|bright|beautiful print,,2025-11-12T19:57:39.485201
+114,0.0,0,0,0,0,,,2025-11-12T19:57:39.525195
+549,40.0,1,0,0,0,a little|the smallest size|a medium,,2025-11-12T19:57:39.545194
+433,75.5,1,0,0,0,the package|love|the colors,,2025-11-12T19:57:39.585201
+138,99.0,1,0,0,0,this sweatshirt|full price|sale,,2025-11-12T19:57:39.625212
+517,9.0,0,0,0,0,,,2025-11-12T19:57:39.665192
+115,73.0,1,0,0,0,The fabric|the fit|the body,,2025-11-12T19:57:39.705190
+211,93.0,1,0,0,0,a beautiful piece|the price|a 34c,,2025-11-12T19:57:39.725166
+523,0.0,0,0,0,0,,the limiting|this suit|the 10,2025-11-12T19:57:39.765201
+547,99.0,2,0,0,0,w/ black|this time|so glad i,,2025-11-12T19:57:39.805193
+285,0.0,0,0,0,0,,,2025-11-12T19:57:39.845211
+792,40.0,0,0,0,0,,,2025-11-12T19:57:39.865161
+424,49.5,1,0,0,0,a review|the vest|the thick fabric,,2025-11-12T19:57:39.905179
+955,0.0,0,0,0,0,,,2025-11-12T19:57:39.945193
+14,94.0,1,0,0,0,The bikini bottoms|high quality|one size,,2025-11-12T19:57:39.985212
+308,99.0,1,0,0,0,this top soooooo|straps|tops,,2025-11-12T19:57:40.005174
+216,99.0,1,0,0,0,these leggings|super stretchy|an active lifestyle,,2025-11-12T19:57:40.045221
+384,86.0,1,0,0,0,what cup size i am|36b or 36c|the medium,,2025-11-12T19:57:40.085238
+689,99.0,1,0,0,0,your butt|very whimsical design,,2025-11-12T19:57:40.125190
+603,98.0,1,0,0,0,These shorts|the online sale|short-waisted bodies,,2025-11-12T19:57:40.165229
+708,99.0,1,0,0,0,These leggings|place,,2025-11-12T19:57:40.185135
+987,20.0,0,0,0,0,,,2025-11-12T19:57:40.225199
+684,99.0,2,0,0,0,Super cute and comfy|sizing|material,,2025-11-12T19:57:40.265205
+321,98.0,1,0,0,0,This swimsuit|seafolly|an australian brand,,2025-11-12T19:57:40.305192
+340,99.0,1,0,0,0,a chance|my local store|a wider-hipped 14 i,,2025-11-12T19:57:40.325166
+1182,99.0,1,0,0,0,every day,,2025-11-12T19:57:40.365222
+1173,0.0,0,0,0,0,,,2025-11-12T19:57:40.405188
+1196,57.0,0,0,0,0,a great pull|dress|a bbq,,2025-11-12T19:57:40.445217
+1043,99.0,1,0,0,0,my eye|many different occasions|high quality,,2025-11-12T19:57:40.465157
+691,43.0,0,0,0,0,,,2025-11-12T19:57:40.505188
+272,99.0,1,0,0,0,a little bit|the price|a gorgeous swimsuit,,2025-11-12T19:57:40.545163
+1002,33.0,0,0,0,0,a comfortable skirt|seasons|not the most exciting design,,2025-11-12T19:57:40.585230
+512,99.0,1,0,0,0,my regular size|early this week|yesterday,,2025-11-12T19:57:40.605186
+716,99.0,1,0,0,0,My new favorite socks|a grip|my other liner socks,,2025-11-12T19:57:40.645193
+158,99.0,1,0,0,0,fall temperatures|my go-to tights|this season,,2025-11-12T19:57:40.685177
+923,0.0,0,0,0,0,,,2025-11-12T19:57:40.725199
+972,0.0,0,0,0,0,,,2025-11-12T19:57:40.745201
+203,18.0,0,0,0,0,,,2025-11-12T19:57:40.785189
+781,44.0,0,0,0,0,,,2025-11-12T19:57:40.825194
+207,0.0,0,0,1,0,,this set|the small,2025-11-12T19:57:40.865172
+1000,99.0,1,0,0,0,Fits|the model|im,,2025-11-12T19:57:40.885151
+204,94.0,1,0,0,0,This bra|the lack|padding or firm material,,2025-11-12T19:57:40.925197
+775,0.0,0,0,0,0,,,2025-11-12T19:57:40.965179
+546,95.0,1,0,0,0,These shorts|the fabric|the beach,,2025-11-12T19:57:41.005188
+34,99.0,1,0,0,0,"panties|the prettiest, softest, most adore-worthy panties|my favorite boy shorts",,2025-11-12T19:57:41.025139
+793,0.0,0,0,0,0,,,2025-11-12T19:57:41.065193
+371,0.0,0,0,0,0,,,2025-11-12T19:57:41.105197
+1064,54.0,0,0,0,0,the other reviews|this jumpsuit|another 5'3,,2025-11-12T19:57:41.145211
